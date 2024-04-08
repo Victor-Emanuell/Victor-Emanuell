@@ -4,7 +4,9 @@
 - 🌱 Estudando sobre Javascript e HTML/CSS
 - 😄 Pronouns: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Emanuell&show_icons=true&theme=radical)
+<a href="https://github.com/Victor-Emanuell/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Emanuell&show_icons=true&theme=dark" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
