@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estudo sobre front-end
 - 🌱 Estudando sobre Javascript e HTML/CSS
-- 😄 Pronouns: 
+- 😄 Pronouns: Ele/Dele
 
 <a href="https://github.com/Victor-Emanuell/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Emanuell&show_icons=true&theme=dark" />
