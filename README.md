@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- 🔭 Hoje estudo sobre front-end
-- 🌱 Estudando sobre Javascript e HTML/CSS
+- 🔭 Hoje estudo sobre Back-end
+- 🌱 Estudando sobre Java com conhecimentos sobre HTML/CSS
 - 😄 Pronouns: Ele/Dele
 
 <a href="https://github.com/Victor-Emanuell/github-readme-stats">
